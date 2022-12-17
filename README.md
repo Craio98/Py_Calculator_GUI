@@ -2,5 +2,5 @@
 Python 3 Calculator with GUI
 
 - Using Tkinter
-- Using functions
+- Using Virtual Environment
 - Optimized
