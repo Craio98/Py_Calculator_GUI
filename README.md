@@ -1,5 +1,5 @@
 # Py_Calculator_GUI
-Simple Python 3 Calculator with GUI (tKinter(
+Simple Python 3 Calculator with GUI (tKinter)
 
 - Using Tkinter
 - Using Virtual Environment
